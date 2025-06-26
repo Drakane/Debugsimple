@@ -1,5 +1,6 @@
 {
   "name": "debugsimple",
+  "private": true,
   "homepage": "https:// Drakane.github.io/Debugsimple",
   "version": "0.0.0",
   "type": "module",
